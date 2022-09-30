@@ -1,0 +1,45 @@
+/* Created by: Youngwook Go
+* Created on: Sep 2022
+* CSS for index.html
+*/
+
+.mdl-layout__header-row {
+  align-items: center;
+  justify-content: center;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+body {
+  background-color: mediumslateblue;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
+}
+
+blockquote {
+  color: black;
+  text-align: center;
+  padding-top: 10pt;
+  padding-bottom: 10pt;
+}
